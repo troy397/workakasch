@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://bscscan.com/address/0xc3c878f64a3c803e27d165ce9ad55769bab3841a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Underworld Weirdos",
+  "SYMBOL": "UWENFT",
+  "MAX_SUPPLY": 9999,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.com/invite/becomeaweirdo",
+  "SHOW_BACKGROUND": true
+}
